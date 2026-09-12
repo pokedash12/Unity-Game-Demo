@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7fa08f93af2eb24b84b0350686a7cfa, type: 3}
+  m_Name: Tutorial 2
+  m_EditorClassIdentifier: Assembly-CSharp::Dialog
+  signName: 
+  dialogLines:
+  - You can swap out party members in the party. tab.
+  - You can change and view party member skills
+  - in the stats page.
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: d7fa8f3b55cc89d45a706139ecccc23f, type: 3}
